@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Brian Valdés Martínez",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "label": "Full Stack Developer con más de 5 años de experiencia.",
     "image": "/me.webp",
     "email": "brianvaldesmartinez92@gmail.com",
     "phone": "+591 60881977",
     "url": "",
-    "summary": "Soy una persona proactiva, poseo gran capacidad para adaptarme a todo tipo de entornos y aportar siempre lo mejor de mí. Me caracterizo por mi facilidad para el trabajo en equipo y mi entusiasmo por aprender y desarrollar mis habilidades. En busca de una oportunidad laboral en la que adquirir más experiencia y crecer profesionalmente.",
+    "summary": "Desarrollador Front-End altamente motivado con una pasión por crear experiencias web atractivas y centradas en el usuario utilizando React. Posee un profundo conocimiento de los conceptos y las mejores prácticas de React, experto en la construcción de aplicaciones React escalables, de alto rendimiento y fáciles de mantener. Entusiasmado por mantenerse actualizado con los últimos avances de React e integrarlos para mejorar las interfaces de usuario y la funcionalidad de la aplicación. Capacidad demostrada para colaborar eficazmente con diseñadores y desarrolladores back-end para dar vida a proyectos web. Buscando una oportunidad desafiante para aprovechar la experiencia en React y contribuir a un entorno de trabajo en equipo.",
     "location": {
       "address": "",
       "postalCode": "0000",
@@ -19,11 +19,6 @@
         "network": "LinkedIn",
         "username": "",
         "url": "https://linkedin.com//in/brian-valdés-martínez"
-      },
-      {
-        "network": "X",
-        "username": "",
-        "url": ""
       },
       {
         "network": "GitHub",
@@ -93,29 +88,9 @@
   ],
   "skills": [
     {
-      "name": "HTML",
+      "name": "React",
       "level": "Junior",
-      "keywords": ["Desarrollo Web", "Frontend"]
-    },
-    {
-      "name": "CSS",
-      "level": "Junior",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
-    },
-    {
-      "name": "JavaScript",
-      "level": "Junior",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
-    },
-    {
-      "name": "Tailwind",
-      "level": "Junior",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "TypeScript",
@@ -128,9 +103,92 @@
       ]
     },
     {
+      "name": "JavaScript",
+      "level": "Junior",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Junior",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Junior",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+
+    {
+      "name": "TailwindCss",
+      "level": "Junior",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "REST",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
       "name": "Node",
       "level": "Junior",
       "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "Postgres",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "Expressjs",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "QT",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "Junior",
+      "keywords": []
+    },
+
+    {
+      "name": "PHP",
+      "level": "Junior",
+      "keywords": []
     },
     {
       "name": "Git",
@@ -147,21 +205,26 @@
         "Git"
       ]
     },
+
     {
-      "name": "Next.js",
+      "name": "Storybook",
       "level": "Junior",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
+      "keywords": []
     },
     {
-      "name": "React",
+      "name": "Figma",
       "level": "Junior",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "keywords": []
+    },
+    {
+      "name": "Zustand",
+      "level": "Junior",
+      "keywords": []
+    },
+    {
+      "name": "shadcn/ui",
+      "level": "Junior",
+      "keywords": []
     }
   ],
   "languages": [
@@ -191,7 +254,7 @@
       "name": "BR-Performance",
       "isActive": true,
       "description": "Ecommerce para venta de repuestos automotores y gestión de citas para mejoras",
-      "highlights": ["Mejorando experiencias", "En desarrollo"],
+      "highlights": ["Frontend developer", "Next.js", "React"],
       "url": "https://brp-ecommerce.vercel.app/",
       "github": ""
     }
